@@ -4,6 +4,7 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { motion } from "framer-motion"
 import { Code, Database, Globe, Smartphone } from "lucide-react"
+import Image from "next/image";
 
 export function About() {
   const skills = [
@@ -65,8 +66,8 @@ export function About() {
             <div className="relative">
               <div className="aspect-square rounded-2xl bg-gradient-to-br from-primary/20 to-primary/5 p-8 flex items-center justify-center">
                 <img
-                  src="/developer-headshot.png"
-                  alt="John Doe - Full Stack Developer"
+                  src="/elie.JPG"
+                  alt="Elie MANIZABAYO - Frontend Developer"
                   className="rounded-xl object-cover w-full h-full"
                 />
               </div>
