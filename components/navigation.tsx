@@ -35,7 +35,7 @@ export function Navigation() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="font-heading font-bold text-xl">
-            <span className="text-primary">John</span> Doe
+            <span className="text-primary">Elie</span>MANIZABAYO
           </div>
 
           {/* Desktop Navigation */}

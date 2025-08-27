@@ -38,35 +38,8 @@ export function Projects() {
       liveUrl: "https://weather-demo.vercel.app",
       featured: false,
     },
-    {
-      title: "Social Media Analytics",
-      description:
-        "A comprehensive analytics platform for social media management with automated reporting and engagement tracking.",
-      image: "/social-media-analytics-dashboard.png",
-      technologies: ["Python", "Django", "React", "PostgreSQL", "Celery"],
-      githubUrl: "https://github.com/johndoe/social-analytics",
-      liveUrl: "https://analytics-demo.vercel.app",
-      featured: false,
-    },
-    {
-      title: "AI Chat Assistant",
-      description:
-        "An intelligent chatbot with natural language processing capabilities and integration with multiple AI models.",
-      image: "/preview/project4.png",
-      technologies: ["Next.js", "OpenAI API", "Vercel AI SDK", "Prisma"],
-      githubUrl: "https://github.com/johndoe/ai-chat",
-      liveUrl: "https://ai-chat-demo.vercel.app",
-      featured: false,
-    },
-    {
-      title: "Fitness Tracker",
-      description: "A mobile-first fitness application with workout tracking, progress analytics, and social features.",
-      image: "/fitness-tracker-app.png",
-      technologies: ["React Native", "Firebase", "Redux", "Chart.js"],
-      githubUrl: "https://github.com/johndoe/fitness-tracker",
-      liveUrl: "https://fitness-demo.vercel.app",
-      featured: false,
-    },
+    
+  
   ]
 
   return (

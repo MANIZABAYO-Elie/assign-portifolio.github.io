@@ -12,13 +12,9 @@ export function About() {
     "Next.js",
     "Node.js",
     "Python",
-    "PostgreSQL",
-    "MongoDB",
-    "AWS",
-    "Docker",
     "Git",
     "Tailwind CSS",
-    "GraphQL",
+   
   ]
 
   const expertise = [
@@ -37,12 +33,7 @@ export function About() {
       title: "Mobile Development",
       description: "Developing cross-platform mobile applications with React Native and modern mobile frameworks.",
     },
-    {
-      icon: <Code className="h-8 w-8 text-primary" />,
-      title: "DevOps & Cloud",
-      description:
-        "Implementing CI/CD pipelines, containerization, and cloud infrastructure for scalable applications.",
-    },
+   
   ]
 
   return (
@@ -59,7 +50,7 @@ export function About() {
             About <span className="text-primary">Me</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            I'm a passionate full-stack developer with over 5 years of experience building modern web applications. I
+            I'm a passionate Frontend developer with over 2 years of experience building modern web applications. I
             love turning complex problems into simple, beautiful, and intuitive solutions.
           </p>
         </motion.div>
@@ -95,7 +86,7 @@ export function About() {
             <h3 className="font-heading font-bold text-2xl sm:text-3xl">Crafting Digital Experiences</h3>
             <p className="text-muted-foreground leading-relaxed">
               My journey in software development began with a curiosity about how things work behind the scenes. Today,
-              I specialize in creating full-stack applications that not only look great but also perform exceptionally
+              I specialize in creating frontend applications that not only look great but also perform exceptionally
               well.
             </p>
             <p className="text-muted-foreground leading-relaxed">

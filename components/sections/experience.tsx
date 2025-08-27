@@ -8,9 +8,9 @@ import { Briefcase, GraduationCap, Calendar, MapPin } from "lucide-react"
 export function Experience() {
   const workExperience = [
     {
-      title: "Senior Full Stack Developer",
-      company: "TechCorp Solutions",
-      location: "San Francisco, CA",
+      title: "Junior Frontend Developer",
+      company: "Green tech Solutions",
+      location: "kigali",
       period: "2022 - Present",
       description:
         "Leading development of scalable web applications serving 100K+ users. Architected microservices infrastructure and mentored junior developers.",
@@ -30,8 +30,8 @@ export function Experience() {
     {
       title: "Frontend Developer",
       company: "Digital Agency Pro",
-      location: "New York, NY",
-      period: "2019 - 2020",
+      location: "kigali",
+      period: "2023 - Present",
       description:
         "Developed responsive websites and web applications for various clients. Optimized performance and implemented modern frontend practices.",
       technologies: ["React", "TypeScript", "Sass", "Webpack", "Jest"],
@@ -39,35 +39,35 @@ export function Experience() {
     },
     {
       title: "Junior Web Developer",
-      company: "WebDev Studio",
-      location: "Austin, TX",
-      period: "2018 - 2019",
+      company: "Freelancer",
+      location: "Kigali",
+      period: "2023-Now",
       description:
         "Started my professional journey building websites and learning modern development practices. Contributed to multiple client projects.",
-      technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+      technologies: ["HTML", "CSS", "JavaScript", "React"],
       type: "work" as const,
     },
   ]
 
   const education = [
     {
-      title: "Bachelor of Science in Computer Science",
-      company: "University of Technology",
-      location: "California, USA",
-      period: "2014 - 2018",
+      title: "Advanced diploma in Mechanical Engineering",
+      company: "Rwanda polytechnic",
+      location: "Kigali",
+      period: "2018 - 2021",
       description:
-        "Graduated Magna Cum Laude. Focused on software engineering, algorithms, and database systems. Active member of the Computer Science Club.",
+        "Graduated Magna Cum Laude. Focused on software engi",
       technologies: ["Java", "C++", "Python", "Data Structures", "Algorithms"],
       type: "education" as const,
     },
     {
-      title: "Full Stack Web Development Bootcamp",
-      company: "CodeAcademy Pro",
-      location: "Online",
-      period: "2017 - 2018",
+      title: "Frontend  Bootcamp",
+      company: "SOLVIT AFRICA ",
+      location: "On Site",
+      period: "Jun-Sept 2025",
       description:
-        "Intensive 6-month program covering modern web development technologies and best practices. Built multiple full-stack projects.",
-      technologies: ["JavaScript", "React", "Node.js", "MongoDB", "Git"],
+        "Intensive 3-month program covering modern web development technologies and best practices. Built multiple frontend projects.",
+      technologies: ["JavaScript", "React", "Node.js", "TypeScript", "Git"],
       type: "education" as const,
     },
   ]

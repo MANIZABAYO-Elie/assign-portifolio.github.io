@@ -22,7 +22,7 @@ export function Hero() {
           >
             Hi, I'm{" "}
             <span className="text-primary bg-gradient-to-r from-primary to-primary/80 bg-clip-text text-transparent">
-              John Doe
+              MANIZABAYO Elie
             </span>
           </motion.h1>
 
@@ -32,7 +32,7 @@ export function Hero() {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-xl sm:text-2xl text-muted-foreground max-w-2xl mx-auto leading-relaxed"
           >
-            Full-Stack Developer crafting exceptional digital experiences with modern technologies
+            Frontend Developer crafting exceptional digital experiences with modern technologies
           </motion.p>
 
           <motion.div
@@ -72,7 +72,7 @@ export function Hero() {
               <Linkedin className="h-6 w-6" />
             </a>
             <a
-              href="mailto:john@example.com"
+              href="mailto:manizabayoelie@gmail.com"
               className="text-muted-foreground hover:text-primary transition-colors duration-200"
             >
               <Mail className="h-6 w-6" />

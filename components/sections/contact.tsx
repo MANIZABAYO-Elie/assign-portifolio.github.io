@@ -56,15 +56,15 @@ export function Contact() {
             <div className="space-y-4">
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-primary" />
-                <span className="text-foreground">john.doe@example.com</span>
+                <span className="text-foreground">manizabayoelie@gmail.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-primary" />
-                <span className="text-foreground">+1 (555) 123-4567</span>
+                <span className="text-foreground">+250 786208995</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="h-5 w-5 text-primary" />
-                <span className="text-foreground">San Francisco, CA</span>
+                <span className="text-foreground">Rwanda-Kigali-Masaka</span>
               </div>
             </div>
 
